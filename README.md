@@ -1,5 +1,7 @@
 # IA Personality Match
 
+-- Non supervised learning
+
 
 This project has been made by me based in the data of https://www.kaggle.com/datasets/tunguz/big-five-personality-test
 
